@@ -1,6 +1,6 @@
 # Introduction
 
-This software performs numerical routines and produces the figures for the paper **Eusociality through conflict dissolution via maternal reproductive specialization**, by *Mauricio González-Forero* and *Jorge Peña*. 
+This software performs numerical routines and produces the figures for the paper **Eusociality through conflict dissolution**, by *Mauricio González-Forero* and *Jorge Peña*. 
 
 # Included files
 

@@ -1,6 +1,6 @@
 # Introduction
 
-This software performs numerical routines and produces the figures for the paper **Eusociality through conflict dissolution**, by *Mauricio González-Forero* and *Jorge Peña*. 
+This software performs numerical routines and produces the figures for the paper **Eusociality through conflict dissolution**, by *Mauricio González-Forero* and *Jorge Peña*, _Proc. R. Soc. B_, DOI: 10.1098/rspb.2021.0386 
 
 # Included files
 
